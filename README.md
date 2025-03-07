@@ -1,6 +1,6 @@
 # Clicker APP
 
-## УHow to install
+## How to install
 
 ```bash
 git clone https://github.com/SwairIt/clicker_app.git
